@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 679,
-    "timeWeek": 679,
-    "timeMonth": 679,
-    "timeYear": 679,
+    "time": 669,
+    "timeDay": 669,
+    "timeWeek": 669,
+    "timeMonth": 669,
+    "timeYear": 669,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 396,
-    "timeWeek": 396,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "time": 356,
+    "timeDay": 356,
+    "timeWeek": 356,
+    "timeMonth": 356,
+    "timeYear": 356,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.nowayste-escapes.nl.ico",
     "slug": "nowayste-escapes",
     "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "98.96%",
-    "uptimeMonth": "98.96%",
-    "uptimeYear": "98.96%",
-    "time": 1905,
-    "timeDay": 1905,
-    "timeWeek": 1905,
-    "timeMonth": 1905,
-    "timeYear": 1905,
+    "uptime": "99.11%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.11%",
+    "uptimeMonth": "99.11%",
+    "uptimeYear": "99.11%",
+    "time": 2145,
+    "timeDay": 2145,
+    "timeWeek": 2145,
+    "timeMonth": 2145,
+    "timeYear": 2145,
     "dailyMinutesDown": {
       "2026-01-16": 1
     }
@@ -60,17 +60,19 @@
     "url": "https://braatwiki.ethicbyte.nl",
     "icon": "https://icons.duckduckgo.com/ip3/braatwiki.ethicbyte.nl.ico",
     "slug": "braat-wiki",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 774,
     "timeDay": 774,
     "timeWeek": 774,
     "timeMonth": 774,
     "timeYear": 774,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-16": 0
+    }
   }
 ]
