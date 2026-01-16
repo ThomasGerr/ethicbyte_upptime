@@ -11,6 +11,8 @@ sites:
     url: https://www.nowayste-escapes.nl
   - name: Braat wiki
     url: https://braatwiki.ethicbyte.nl
+  - name: youtube.com
+    url: https://www.youtube.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
