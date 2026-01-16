@@ -40,19 +40,19 @@
     "url": "https://www.nowayste-escapes.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.nowayste-escapes.nl.ico",
     "slug": "nowayste-escapes",
-    "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "98.25%",
-    "time": 359,
-    "timeDay": 359,
-    "timeWeek": 359,
-    "timeMonth": 359,
-    "timeYear": 359,
+    "status": "up",
+    "uptime": "49.56%",
+    "uptimeDay": "49.56%",
+    "uptimeWeek": "49.56%",
+    "uptimeMonth": "49.56%",
+    "uptimeYear": "49.56%",
+    "time": 1895,
+    "timeDay": 1895,
+    "timeWeek": 1895,
+    "timeMonth": 1895,
+    "timeYear": 1895,
     "dailyMinutesDown": {
-      "2026-01-16": 0
+      "2026-01-16": 9
     }
   },
   {
